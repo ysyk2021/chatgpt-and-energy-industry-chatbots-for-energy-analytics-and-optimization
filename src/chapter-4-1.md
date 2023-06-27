@@ -10,16 +10,6 @@ ChatGPT is based on the Transformer architecture, which is a type of neural netw
 
 During training, ChatGPT is exposed to massive amounts of text data, including books, articles, and websites. This allows it to develop a deep understanding of language patterns and to generate highly accurate and relevant responses to user queries.
 
-What are the features of ChatGPT?
----------------------------------
-
-ChatGPT has several features that make it well-suited for use in chatbots for energy analytics and optimization. These include:
-
-* **Natural language processing capabilities:** ChatGPT can interpret and respond to user queries in a conversational manner, making it easy for users to interact with the system.
-* **Deep learning algorithms:** ChatGPT can learn from data and improve its accuracy over time, allowing it to provide more accurate and relevant recommendations to users.
-* **Ability to handle large amounts of data:** ChatGPT is capable of processing large amounts of text data, making it well-suited for analyzing energy usage patterns and other relevant factors.
-* **Flexible architecture:** ChatGPT's architecture can be customized to meet the specific needs of different applications, making it a versatile tool for energy analytics and optimization.
-
 What are the benefits of using ChatGPT in energy analytics and optimization?
 ----------------------------------------------------------------------------
 
