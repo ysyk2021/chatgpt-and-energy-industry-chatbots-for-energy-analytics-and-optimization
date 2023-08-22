@@ -1,5 +1,4 @@
-Summary of Key Points
-=================================
+
 
 In this book, we have explored the use of ChatGPT in chatbots for energy analytics and optimization. The following are the key points that summarize our discussion:
 

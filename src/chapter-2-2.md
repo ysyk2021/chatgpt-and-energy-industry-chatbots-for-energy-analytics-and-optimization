@@ -1,5 +1,4 @@
-The History and Evolution of Energy Industry
-======================================================================================
+
 
 The energy industry has evolved significantly over time, driven by advances in technology, changes in resource availability, and shifts in economic and political factors. In this chapter, we will explore the history and evolution of the energy industry.
 

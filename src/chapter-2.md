@@ -1,5 +1,4 @@
-Chapter 1: Understanding Energy Industry
-========================================
+
 
 The energy industry plays a critical role in powering modern society, providing the energy necessary to support economic development, transportation, and daily life. In this chapter, we will explore the energy industry, its history, types of energy sources used today, and limitations and challenges it faces.
 

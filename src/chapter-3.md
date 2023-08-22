@@ -1,5 +1,4 @@
-Chapter 2: Chatbots and AI in Energy Industry
-=============================================
+
 
 Chatbots and artificial intelligence (AI) are increasingly being used in the energy industry to provide energy analytics, optimization services, and improve customer engagement. In this chapter, we will explore the use of chatbots and AI in the energy industry, their advantages, types, and limitations.
 

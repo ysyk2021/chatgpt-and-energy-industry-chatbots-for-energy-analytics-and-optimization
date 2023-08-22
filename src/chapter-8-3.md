@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 The energy industry faces significant limitations and challenges, including limited resources, environmental concerns, infrastructure limitations, and economic and political factors. While chatbots and artificial intelligence (AI) offer potential solutions to some of these challenges, there are also limitations to their effectiveness.
 

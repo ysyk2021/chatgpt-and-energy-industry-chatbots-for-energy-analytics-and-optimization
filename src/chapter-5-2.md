@@ -1,5 +1,4 @@
-Personalization Techniques Used in ChatGPT for Energy Analytics and Optimization
-================================================================================================================================================================
+
 
 Personalization is crucial in chatbots for energy analytics and optimization as it allows the system to understand the unique needs of individual users. ChatGPT employs several techniques to personalize its responses, ensuring that the recommendations provided are accurate and relevant.
 
