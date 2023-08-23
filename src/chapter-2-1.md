@@ -1,5 +1,4 @@
 
-
 The energy industry encompasses all activities related to the production, distribution, and consumption of energy. Energy is essential for powering modern society, providing the energy necessary to support economic development, transportation, and daily life.
 
 The energy industry includes a variety of sectors and sub-sectors, including:

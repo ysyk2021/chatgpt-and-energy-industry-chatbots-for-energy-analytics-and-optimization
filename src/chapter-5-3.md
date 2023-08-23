@@ -1,5 +1,4 @@
 
-
 ChatGPT uses data to improve chatbots for energy analytics and optimization. In this chapter, we will explore how ChatGPT uses data to improve chatbots for energy analytics and optimization.
 
 Training on Large Datasets

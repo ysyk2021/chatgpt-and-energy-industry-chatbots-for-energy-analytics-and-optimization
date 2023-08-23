@@ -1,5 +1,4 @@
 
-
 ChatGPT is an advanced language model developed by OpenAI that can generate human-like text. This cutting-edge technology has been integrated into chatbots for energy analytics and optimization to facilitate communication between the user and the system.
 
 Pre-Trained Language Model

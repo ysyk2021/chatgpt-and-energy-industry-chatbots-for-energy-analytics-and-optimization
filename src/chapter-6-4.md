@@ -1,5 +1,4 @@
 
-
 The implementation of ChatGPT in chatbots for energy analytics and optimization can improve the accuracy and relevance of recommendations provided to users. In this chapter, we will evaluate ChatGPT's performance and effectiveness in chatbots for energy analytics and optimization.
 
 Performance Evaluation

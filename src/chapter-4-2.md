@@ -1,5 +1,4 @@
 
-
 ChatGPT is a machine learning model developed by OpenAI that has been designed to generate human-like text. In this chapter, we will explore the features of ChatGPT and how they can be leveraged in energy analytics and optimization.
 
 Natural Language Processing

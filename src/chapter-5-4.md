@@ -1,5 +1,4 @@
 
-
 ChatGPT has proven to be an effective tool for improving chatbots in energy analytics and optimization. In this chapter, we will explore case studies demonstrating ChatGPT's effectiveness in improving chatbots for energy analytics and optimization.
 
 Case Study #1: Smart Thermostat Chatbot

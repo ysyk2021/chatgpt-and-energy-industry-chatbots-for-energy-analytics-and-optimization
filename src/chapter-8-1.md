@@ -1,5 +1,4 @@
 
-
 In this book, we have explored the use of ChatGPT in chatbots for energy analytics and optimization. The following are the key points that summarize our discussion:
 
 * ChatGPT is an advanced language model developed by OpenAI that can generate human-like text.

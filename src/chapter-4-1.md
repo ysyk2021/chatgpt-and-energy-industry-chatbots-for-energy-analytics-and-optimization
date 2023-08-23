@@ -1,5 +1,4 @@
 
-
 ChatGPT is an artificial intelligence (AI) language model that was developed by OpenAI. It utilizes deep learning algorithms to generate natural language responses to user queries. In the energy industry, ChatGPT is being increasingly used in chatbots to provide energy analytics and optimization services.
 
 How does ChatGPT work?

@@ -1,5 +1,4 @@
 
-
 The future of chatbots and AI in energy analytics and optimization is bright, with enormous potential to transform the industry. In this chapter, we will explore some of the future trends and directions in chatbots and AI in chatbots for energy analytics and optimization.
 
 Personalization
