@@ -14,3 +14,7 @@ Our objectives for this book are to:
 Whether you work in the energy industry or are simply interested in its evolution, this book will provide valuable insights into how ChatGPT can transform your energy analytics and optimization processes. By exploring the different applications of AI in the energy industry, understanding machine learning techniques for data analysis and examining ethical considerations, readers will be better equipped to navigate the rapidly changing landscape of energy industry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
