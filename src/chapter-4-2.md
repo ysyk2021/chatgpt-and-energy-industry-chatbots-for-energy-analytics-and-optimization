@@ -1,5 +1,4 @@
-Chapter: The Features of ChatGPT
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT comes with a set of powerful features that make it well-suited for developing chatbots in the energy industry. This chapter explores some of the key features that set ChatGPT apart and enhance its capabilities.
 

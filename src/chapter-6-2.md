@@ -1,5 +1,4 @@
-Chapter: Integration with Existing Energy Systems
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating chatbots powered by ChatGPT into existing energy systems has the potential to revolutionize energy analytics and optimization. In this chapter, we will explore the benefits of integrating chatbots in the energy industry, discuss the challenges associated with integration, and provide insights on how to overcome them.
 

@@ -1,5 +1,4 @@
-Chapter: What is the Energy Industry?
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The energy industry plays a critical role in providing the power and resources necessary for various sectors of society to function. This chapter provides an overview of the energy industry, its components, and its significance in enabling economic growth, technological advancements, and sustainable development.
 

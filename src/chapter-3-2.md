@@ -1,5 +1,4 @@
-Chapter: Advantages of Using Chatbots and AI in Energy Industry
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The energy industry is facing increasing pressure to optimize its operations and reduce costs while also driving sustainability. Over the past few years, chatbots and artificial intelligence (AI) have emerged as powerful tools for the energy industry to achieve these goals. This chapter explores the advantages of using chatbots and AI in the energy industry.
 

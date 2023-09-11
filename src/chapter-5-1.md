@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Works in Chatbots for Energy Analytics and Optimization
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, the underlying AI model powering chatbots for energy analytics and optimization, is a state-of-the-art language model that utilizes deep learning techniques. This chapter provides insights into how ChatGPT works and its role in enabling powerful chatbot capabilities for energy professionals.
 

@@ -1,5 +1,4 @@
-Chapter: Planning and Designing ChatGPT for Chatbots in Energy Analytics and Optimization
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Planning and designing chatbots powered by ChatGPT plays a critical role in leveraging the potential of AI in energy analytics and optimization. In this chapter, we will explore the important considerations and steps involved in planning and designing chatbots specifically tailored for the energy industry.
 

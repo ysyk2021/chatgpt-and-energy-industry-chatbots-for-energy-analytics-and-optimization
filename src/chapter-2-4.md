@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Energy Industry
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While the use of chatbots powered by ChatGPT presents numerous benefits for energy analytics and optimization, several limitations and challenges remain within the energy industry. This chapter explores some of the most significant challenges in leveraging AI-based solutions.
 

@@ -1,5 +1,4 @@
-Chapter: Personalization Techniques Used in ChatGPT for Energy Analytics and Optimization
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Personalization is a key aspect of chatbots for energy analytics and optimization, as it enhances the user experience and enables tailored recommendations and insights. This chapter delves into the various personalization techniques used in ChatGPT to optimize energy analytics and improve decision-making processes.
 

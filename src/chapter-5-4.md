@@ -1,5 +1,4 @@
-Chapter: Case Studies Demonstrating ChatGPT's Effectiveness in Improving Chatbots for Energy Analytics and Optimization
-=======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, with its advanced natural language processing capabilities, has proven to be highly effective in improving chatbots for energy analytics and optimization. This chapter explores real-world case studies that highlight the positive impact of ChatGPT in the energy industry.
 

@@ -1,5 +1,4 @@
-Chapter: An Overview of Chatbots and AI in the Energy Industry
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The energy industry is constantly evolving, and technological advancements such as chatbots and artificial intelligence (AI) are revolutionizing its landscape. This chapter provides an overview of chatbots and AI in the energy industry, exploring their capabilities, applications, and potential benefits.
 

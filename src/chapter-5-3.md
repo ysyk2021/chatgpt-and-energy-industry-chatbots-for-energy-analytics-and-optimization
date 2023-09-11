@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Uses Data to Improve Chatbots for Energy Analytics and Optimization
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the field of energy analytics and optimization, data plays a vital role in enabling informed decision-making and driving efficiency. This chapter explores how ChatGPT, powered by advanced machine learning techniques, utilizes data to enhance chatbots' capabilities for energy analytics and optimization.
 

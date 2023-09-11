@@ -1,5 +1,4 @@
-Chapter: Training ChatGPT and Managing Conversations for Chatbots in Energy Analytics and Optimization
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Training chatbots powered by ChatGPT and effectively managing conversations play crucial roles in leveraging the potential of AI in energy analytics and optimization. In this chapter, we will explore the training process for ChatGPT and discuss best practices for managing conversations in the context of energy industry chatbots.
 

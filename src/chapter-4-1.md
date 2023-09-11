@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced conversational AI model developed by OpenAI. It leverages the power of the GPT-3.5 architecture to enable natural language understanding and generation capabilities in chatbot applications. In this chapter, we will explore the key aspects of ChatGPT, its underlying technology, and its application in the energy industry.
 

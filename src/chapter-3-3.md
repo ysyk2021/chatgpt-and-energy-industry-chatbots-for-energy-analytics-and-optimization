@@ -1,5 +1,4 @@
-Chapter: Types of Chatbots Used in the Energy Industry
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Chatbots are playing an increasingly important role in the energy industry, revolutionizing the way energy professionals access information, analyze data, and optimize energy operations. This chapter explores the various types of chatbots used in the energy industry and their specific functionalities.
 

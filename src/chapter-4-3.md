@@ -1,5 +1,4 @@
-Chapter: Advantages of Using ChatGPT in Energy Analytics and Optimization
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT offers several advantages when it comes to powering chatbots for energy analytics and optimization. This chapter explores the unique benefits of utilizing ChatGPT in the energy industry.
 
